@@ -11,6 +11,8 @@ The goal of this repository is to practice problem-solving, programming logic, a
 3. Palindrome Number
 4. Student Grade Analyzer
 5. Sum of Digits
+6. Reverse Number
+7. Count Digits
 
 ## Concepts Covered
 
