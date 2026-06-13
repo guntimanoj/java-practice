@@ -13,6 +13,14 @@ The goal of this repository is to practice problem-solving, programming logic, a
 5. Sum of Digits
 6. Reverse Number
 7. Count Digits
+8. Largest Element
+9. Factorial Number
+10. Fibonacci Series
+11. Search Element in Array
+12. Smallest Element in Array
+13. Average of Array Elements
+14. Second Largest Element in Array
+15. Prime Number
 
 ## Concepts Covered
 
