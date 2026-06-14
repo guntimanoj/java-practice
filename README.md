@@ -21,6 +21,7 @@ The goal of this repository is to practice problem-solving, programming logic, a
 13. Average of Array Elements
 14. Second Largest Element in Array
 15. Prime Number
+16. Addition using Method
 
 ## Concepts Covered
 
