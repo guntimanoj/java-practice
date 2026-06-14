@@ -22,6 +22,8 @@ The goal of this repository is to practice problem-solving, programming logic, a
 14. Second Largest Element in Array
 15. Prime Number
 16. Addition using Method
+17. Maximum of Two Numbers using Method
+18. Prime Number using Method
 
 ## Concepts Covered
 
